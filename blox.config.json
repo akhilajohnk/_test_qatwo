@@ -1,0 +1,1 @@
+{"name":"qaone","type":"ui-elements","source":{"https":"https://github.com/akhilajohnk/_test_qaone","ssh":"git@github.com:akhilajohnk/_test_qaone.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
